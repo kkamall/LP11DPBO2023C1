@@ -15,7 +15,7 @@ Setelah kalian berhasil mengakses programnya, buatlah fitur CRUD untuk tabel yan
 
 ## Alur Program:
 - User dapat melihat list pasien.
-- User dapat melakukan CUD member club:
+- User dapat melakukan CUD pasien:
   - (Create)
     - Klik button 'Add Data Baru'.
     - Mengisi data (nik, nama, tempat, tanggal lahit, gender, email, nomor telepon).
